@@ -1,4 +1,4 @@
-import postreducer from './../src/reducers/post-reducer';
+import postreducer from './../reducers/post-reducer';
 
 describe('postreducer', () => {
     let action;
